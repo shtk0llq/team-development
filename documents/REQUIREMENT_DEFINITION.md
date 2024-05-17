@@ -1,6 +1,6 @@
 # 要件定義
 
-## Skill Doc を読む
+## Skill Document を読む
 
 - [自分や誰かのための制作物を作ることができる](/skilldocuments/BUSINESS_THINKING.md)
 - [顧客が求めている要求を明確にできる](/skilldocuments/REQUIREMENTS_ANALYSIS.md)
