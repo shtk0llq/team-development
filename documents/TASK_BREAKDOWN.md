@@ -18,8 +18,7 @@
 - GitHub にて Issue を作成する。
 - 担当を割り振る。
   - 担当の割り振りは、フロント/バックエンドなどの領域で分けるか、機能単位で分ける。
-
 ※ 上記は一つのやり方なのでチームごとに変えていただて大丈夫です。
 
-[GitHub Projects を利用したタスク管理](https://user-first.ikyu.co.jp/entry/2023/11/09/175121)
-[セルフマネジメントの必須スキル「タスクばらし」そのポイント](https://kuranuki.sonicgarden.jp/archives/21981)
+- [GitHub Projects を利用したタスク管理](https://user-first.ikyu.co.jp/entry/2023/11/09/175121)
+- [セルフマネジメントの必須スキル「タスクばらし」そのポイント](https://kuranuki.sonicgarden.jp/archives/21981)
