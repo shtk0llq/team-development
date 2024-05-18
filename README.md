@@ -27,9 +27,9 @@
 
 ## スケジュール
 
-|  期間  |  内容  |
-| ----- | ----- |
-| 5/20(月) - 6/9(日)  | [アイデア決め](/documents/IDEA.md) / [要件定義](/documents/REQUIREMENT_DEFINITION.md) |
+| 期間 | 内容 |
+| --- | --- |
+| 5/20(月) - 6/9(日) | [アイデア決め](/documents/IDEA.md) / [要件定義](/documents/REQUIREMENT_DEFINITION.md) |
 | 6/10(月) - 6/23(日) | [業務フロー](/documents/BUSINESS_FLOW.md) / [画面遷移図](/documents/TRANSITION_DIAGRAM.md) / [ワイヤーフレーム](/documents/WIREFRAME.md) / [テーブル定義書（もしくはER図）](/documents/TABLE.md) / [システム構成図](/documents/SYSTEM_CONFIGURATION.md) |
 | 6/24(月) - 6/30(日) | [タスクばらし](/documents/TASK_BREAKDOWN.md) / 環境構築 |
 | 7/1(月) - 7/28(日) | 実装 / デプロイ / [お披露目](/documents/REVEAL.md) |
