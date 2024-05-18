@@ -25,7 +25,5 @@
 
 ## 参考
 
-<a href="https://products.sint.co.jp/obpm/blog/inception-deck" target="_blank">インセプションデッキとは？作成メリットや構成要素・作り方を解説</a>
-- [インセプションデッキとは？作成メリットや構成要素・作り方を解説](https://products.sint.co.jp/obpm/blog/inception-deck){:target="_blank"}
-- [インセプションデッキとは？作成メリットや構成要素・作り方を解説](https://products.sint.co.jp/obpm/blog/inception-deck){:target="_blank"}
-- [インセプションデッキとは？アジャイル開発での作成方法や具体例を解説](https://abi-agile.com/inception-deck){:target="_blank"}
+- [インセプションデッキとは？作成メリットや構成要素・作り方を解説](https://products.sint.co.jp/obpm/blog/inception-deck)
+- [インセプションデッキとは？アジャイル開発での作成方法や具体例を解説](https://abi-agile.com/inception-deck)
