@@ -11,7 +11,9 @@
 
 ## 参考
 
-- 掲載予定
+- [小学生でもわかるデータベース設計入門。実際に設計しながら基礎を学ぼう](https://www.youtube.com/watch?v=Yg546Zua39A)
+- [4ステップで作成する、DB論理設計の手順とチェックポイントまとめ](https://qiita.com/nishina555/items/a79ece1b54faf7240fac)
+- [データベース（RDB）設計の進め方！](https://qiita.com/ryota_i/items/294281b57cc9783bf2c1)
 
 図を記載するツールは何でも良いのですが、Figma, draw.io などがおすすめです。
 
